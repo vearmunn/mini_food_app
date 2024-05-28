@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794234337155",
+    "project_id": "mini-food-delivery",
+    "storage_bucket": "mini-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794234337155:android:f23202296ad27d316da8b6",
+        "android_client_info": {
+          "package_name": "com.example.mini_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwu81J6yaK4FHByYzMZMYlejCcKhM_bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
